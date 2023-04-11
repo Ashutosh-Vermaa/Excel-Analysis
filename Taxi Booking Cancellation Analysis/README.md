@@ -1,3 +1,6 @@
+	
+![Taxi Data Analysis](https://user-images.githubusercontent.com/87562455/231236703-ec33f3a1-d409-49a0-ab85-a768af9ee96f.png)
+
 
 -Rides with assigned drivers have a longer average cancellation time (233.9 sec) than rides without drivers (110.4 sec).	
 
@@ -11,7 +14,4 @@
 
 -The number of cancellations is positively correlated with the number of offers given. The highest number of cancellations at 8 AM may be due to the highest 
 
-number of offers given at that time. Another reason could be the highest ETA during the day.		
-
-
-![Taxi Data Analysis](https://user-images.githubusercontent.com/87562455/231236703-ec33f3a1-d409-49a0-ab85-a768af9ee96f.png)
+number of offers given at that time. Another reason could be the highest ETA during the day.	
